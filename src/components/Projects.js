@@ -2,7 +2,7 @@ import React from "react";
 
 function Projects() {
   return (
-    <section style={{ padding: "2rem" }}>
+    <section>
       <h2>Projects</h2>
       <ul>
         <li> <a href="https://wondrous-marshmallow-59b80e.netlify.app/">Personal Portfolio Website</a></li>
