@@ -5,8 +5,8 @@ function Projects() {
     <section>
       <h2>Projects</h2>
       <ul>
-        <li> <a href="https://wondrous-marshmallow-59b80e.netlify.app/">Personal Portfolio Website</a></li>
-        <li>To-Do App</li>
+        <a href="https://wondrous-marshmallow-59b80e.netlify.app/"><li>Personal Portfolio Website</li></a>
+        <a href="https://wondrous-marshmallow-59b80e.netlify.app/"><li>To-Do App</li></a>
         <li>Blog App</li>
       </ul>
     </section>
